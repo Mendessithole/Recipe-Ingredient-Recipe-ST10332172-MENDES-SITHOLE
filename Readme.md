@@ -1,4 +1,6 @@
-﻿Recipe Ingredient Recipe ST10332172 MENDES SITHOLE
+Recipe Ingredient Recipe ST10332172 MENDES SITHOLE
+
+https://github.com/Mendessithole/Recipe-Ingredient-Recipe-ST10332172-MENDES-SITHOLE
 
 Description
 Recipe Ingredient Recipe ST10332172 MENDES SITHOLE is a simple console application that allows users to enter recipes, scale them, reset the scale, and clear the recipe details.
